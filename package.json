@@ -1,0 +1,15 @@
+{
+  "dependencies": {
+    "nodemon": "^2.0.12"
+  },
+  "name": "nodejs",
+  "version": "1.0.0",
+  "main": "LearnNode.js",
+  "devDependencies": {},
+  "scripts": {
+    "start": "nodemon learnNode.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "description": ""
+}
