@@ -1,11 +1,11 @@
 {
   "dependencies": {
-    "nodemon": "^2.0.15"
+    "nodemon": "^2.0.15",
+    "upper-case": "^2.0.2"
   },
   "name": "node_practice",
   "version": "1.0.0",
   "main": "node-practice.js",
-  "devDependencies": {},
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
     "start": "nodemon node-practice"
