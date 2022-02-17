@@ -1,15 +1,24 @@
 {
   "dependencies": {
-    "nodemon": "^2.0.12"
+    "nodemon": "^2.0.15"
   },
-  "name": "nodejs",
+  "name": "node_practice",
   "version": "1.0.0",
-  "main": "LearnNode.js",
+  "main": "node-practice.js",
   "devDependencies": {},
   "scripts": {
-    "start": "nodemon learnNode.js"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon node-practice"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SohelTanbir/Node_Js_Raw.git"
   },
   "author": "",
   "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/SohelTanbir/Node_Js_Raw/issues"
+  },
+  "homepage": "https://github.com/SohelTanbir/Node_Js_Raw#readme",
   "description": ""
 }
